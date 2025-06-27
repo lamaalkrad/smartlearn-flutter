@@ -1,16 +1,44 @@
-# SmartLearn"
+# SmartLearn - منصة تعليمية
 
-A new Flutter project.
+هذا المشروع هو تطبيق منصة تعليمية تم تطويره باستخدام Flutter للواجهة الأمامية وLaravel للباك إند.
 
-## Getting Started
+## مميزات المشروع
+- تسجيل دخول وتسجيل مستخدم جديد
+- لوحة تحكم للطلاب والمدرسين
+- ربط الواجهة مع API مصمم باستخدام Laravel
 
-This project is a starting point for a Flutter application.
+## التقنيات المستخدمة
+- Flutter
+- Laravel
+- Dart
+- PHP
 
-A few resources to get you started if this is your first Flutter project:
+## كيفية تشغيل المشروع
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### الواجهة الأمامية (Flutter)
+1. تأكدي من تثبيت Flutter SDK.
+2. افتحي المشروع في VS Code أو Android Studio.
+3. شغلي الأمر لتحميل الحزم:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter pub get
+
+
+
+
+4. بعد ما يخلص الأمر، شغلي التطبيق:
+
+flutter run
+
+
+
+
+### الباك إند (Laravel)
+- شغلي السيرفر المحلي (مثل XAMPP أو Laravel Valet).
+- تأكدي من إعداد قاعدة البيانات والربط مع المشروع.
+
+## مؤلفة المشروع
+- لما الكراد (Lama Alkrad)
+
+---
+
+شكراً لاهتمامكم بالمشروع!
