@@ -1,0 +1,43 @@
+# Query: flutterSimpleApp
+# ContextLines: 1
+
+9 results - 3 files
+
+ios\Runner.xcodeproj\project.pbxproj:
+  386  				MARKETING_VERSION = 1.0;
+  387: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.SmartLearn.RunnerTests;
+  388  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+  403  				MARKETING_VERSION = 1.0;
+  404: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.SmartLearn.RunnerTests;
+  405  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+  418  				MARKETING_VERSION = 1.0;
+  419: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.SmartLearn.RunnerTests;
+  420  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+  549  				);
+  550: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.SmartLearn;
+  551  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+  571  				);
+  572: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.SmartLearn;
+  573  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+macos\Runner\Configs\AppInfo.xcconfig:
+  10  // The application's bundle identifier
+  11: PRODUCT_BUNDLE_IDENTIFIER = com.example.SmartLearn
+  12  
+
+macos\Runner.xcodeproj\project.pbxproj:
+  387  				MARKETING_VERSION = 1.0;
+  388: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.SmartLearn.RunnerTests;
+  389  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+  401  				MARKETING_VERSION = 1.0;
+  402: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.SmartLearn.RunnerTests;
+  403  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+  415  				MARKETING_VERSION = 1.0;
+  416: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.SmartLearn.RunnerTests;
+  417  				PRODUCT_NAME = "$(TARGET_NAME)";
